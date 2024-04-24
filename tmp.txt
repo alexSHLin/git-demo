@@ -1,3 +1,0 @@
-hello git
-通過繼續增加commit
-This is s book.
